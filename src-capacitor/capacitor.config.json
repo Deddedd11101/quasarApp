@@ -1,0 +1,14 @@
+{
+  "appId": "org.quas.com",
+  "appName": "quas",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "url": "http://192.168.1.69:9500"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "androidScaleType": "CENTER_CROP"
+    }
+  }
+}

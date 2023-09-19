@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">quas</string>
+    <string name="title_activity_main">quas</string>
+    <string name="package_name">org.quas.com</string>
+    <string name="custom_url_scheme">org.quas.com</string>
+</resources>
